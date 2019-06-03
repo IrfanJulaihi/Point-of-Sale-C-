@@ -1,0 +1,12 @@
+Receipt - IT MAGIC
+---------------------
+Item purchased
+Handphone Name:Nokia Lumia
+Price:1000
+Quantity:3
+---------------------
+Total price :RM3000
+Cash received :RM3900
+Cash Back :RM900
+---------------------
+Thank You Please come again

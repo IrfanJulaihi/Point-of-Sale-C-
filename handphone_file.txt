@@ -1,0 +1,12 @@
+Nokia Lumia,1000
+Samsung Galaxy S5,2200
+Iphone 6,2600
+Sony Ericcson Z3,1700
+Ipad 2,2000
+Xiami Redmi,589
+HTC Desire,1208
+Asus Zenfone,422
+Microsoft Lumia,419
+Lenovo K3,516
+Huawei Honor,1360
+Zte Blade,1714
